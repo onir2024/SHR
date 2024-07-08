@@ -1,0 +1,2307 @@
+AOtX - Status Report
+ 
+ 
+Current Date: 7/8/2024 17:01:58
+Project: A02RNLQ NPANNX: 985626 USERID: or585h
+ 
+ 
+ LFACS Errors:0
+None.
+ 
+ Granite Errors:0
+None.
+ 
+ LCAT Notifications: 
+N/A
+ 
+ 
+This project's fiber cables are automatically built into Granite,
+unless otherwise noted in the Granite Errors section of this report.
+ 
+Cables:
+ 
+LFACS   Granite                              
+Status  Status      Cable Range     Term Addr
+ 
+Terminals:
+ 
+LFACS   Granite
+Term    Term
+Status  Status  LMU     IPID/ION     REP  BZ   Terminal Address            Type  Flags
+N/A     DONE    N/A     137252678    N    N/A  F 110-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252923    N    N/A  F 13-1 RED CYPRESS CT CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252719    N    N/A  F 130-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137445147    N    N/A  F 14-2 RED CYPRESS CT CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252724    N    N/A  F 150-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252932    N    N/A  F 16-1 RED CYPRESS CT CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252743    N    N/A  F 170-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252791    N    N/A  F 190-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137446762    N    N/A  F 20-1 BERG CT CFST         FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252810    N    N/A  F 210-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257324    N    N/A  F 210-2 LOTUS DR S CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252938    N    N/A  F 225-1 SILVER MAPLE DR CFSTFST   OB-Buried-SFU   
+N/A     DONE    N/A     137252816    N    N/A  F 230-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257332    N    N/A  F 230-2 LOTUS DR S CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257989    N    N/A  F 235-2 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257949    N    N/A  F 235-2 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252828    N    N/A  F 240-1 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257981    N    N/A  F 245-1 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252946    N    N/A  F 245-1 SILVER MAPLE DR CFSTFST   OB-Buried-SFU   
+N/A     DONE    N/A     137252836    N    N/A  F 250-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257349    N    N/A  F 250-2 LOTUS DR S CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258013    N    N/A  F 255-2 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261025    N    N/A  F 260-2 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252950    N    N/A  F 265-1 SILVER MAPLE DR CFSTFST   OB-Buried-SFU   
+N/A     DONE    N/A     137257364    N    N/A  F 270-2 LOTUS DR S CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258026    N    N/A  F 275-2 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261102    N    N/A  F 275-2 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261038    N    N/A  F 280-2 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257243    N    N/A  F 280-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257376    N    N/A  F 290-2 LOTUS DR S CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258041    N    N/A  F 295-2 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261114    N    N/A  F 295-2 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257419    N    N/A  F 30-2 BERG CT CFST         FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261050    N    N/A  F 300-2 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257257    N    N/A  F 300-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261057    N    N/A  F 310-1 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261238    N    N/A  F 315-1 JASMINE DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261117    N    N/A  F 315-1 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258051    N    N/A  F 315-2 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257271    N    N/A  F 320-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261234    N    N/A  F 325-1 JASMINE DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252954    N    N/A  F 325-1 LOTUS DR S CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257284    N    N/A  F 330-1 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258061    N    N/A  F 335-1 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261123    N    N/A  F 335-1 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261076    N    N/A  F 340-2 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261228    N    N/A  F 345-2 JASMINE DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257411    N    N/A  F 35-1 BERG CT CFST         FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257297    N    N/A  F 350-1 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258125    N    N/A  F 355-1 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261129    N    N/A  F 355-1 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258099    N    N/A  F 355-2 CAMELLIA LN CFST    FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261080    N    N/A  F 364-1 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261221    N    N/A  F 365-2 JASMINE DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261134    N    N/A  F 365-2 MOSS LN CFST        FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257309    N    N/A  F 370-1 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258108    N    N/A  F 375-1 LOTUS DR S CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137257316    N    N/A  F 375-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258141    N    N/A  F 375-2 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261084    N    N/A  F 380-2 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137447157    N    N/A  F 380-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261217    N    N/A  F 385-2 JASMINE DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258112    N    N/A  F 390-1 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261093    N    N/A  F 390-2 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258147    N    N/A  F 395-1 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137461868    N    N/A  F 398-1 AZALEA DR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258157    N    N/A  F 399-1 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137447183    N    N/A  F 400-2 BEAU RIVAGE DR CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     137260984    N    N/A  F 404-1 VENUS DR CFST       FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137260921    N    N/A  F 406-2 HEAVENS DR CFST     FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137258370    N    N/A  F 409-2 VENUS DR CFST       FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137260905    N    N/A  F 412-2 HEAVENS DR CFST     FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137258359    N    N/A  F 417-2 VENUS DR CFST       FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137451232    N    N/A  F 420-1 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137260877    N    N/A  F 420-2 HEAVENS DR CFST     FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137258260    N    N/A  F 425-1 GARDEN AVE CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137260939    N    N/A  F 430-1 DORADO DR CFST      FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137261192    N    N/A  F 430-1 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261184    N    N/A  F 450-2 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261180    N    N/A  F 470-1 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137261170    N    N/A  F 490-1 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137252862    N    N/A  F 5-2 RED CYPRESS CT CFST   FST   OB-Buried-SFU   
+N/A     DONE    N/A     137260952    N    N/A  F 510-1 DORADO DR CFST      FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137261164    N    N/A  F 510-1 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137260977    N    N/A  F 530-1 DORADO DR CFST      FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137261157    N    N/A  F 530-1 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258288    N    N/A  F 541-1 GARDEN AVE CFST     FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137261138    N    N/A  F 550-2 LOTUS DR N CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258332    N    N/A  F 561-1 GARDEN AVE CFST     FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137252914    N    N/A  F 9-1 RED CYPRESS CT CFST   FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258087    N    N/A  OPP 315-1 HYACINTH LN CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     137253001    N    N/A  OPP 330-1 LOTUS DR S CFST   FST   OB-Buried-SFU   
+N/A     DONE    N/A     137258071    N    N/A  OPP 340-1 GARDEN AVE CFST   FST   OB-Buried-SFU   
+N/A     DONE    N/A     137446086    N    N/A  OPP 350-1 LOTUS DR S CFST   FST   OB-Buried-SFU   
+ 
+ 
+ 
+HDT PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+ONX PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+Facility Addresses:
+ 
+LFACS   Granite(STEA=F 110-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   100 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 110-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   110 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 13-1 RED CYPRESS CT CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11 RED CYPRESS CT          N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 13-1 RED CYPRESS CT CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   13 RED CYPRESS CT          N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 130-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   120 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 130-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   130 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 130-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   115 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 130-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   125 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 14-2 RED CYPRESS CT CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12 RED CYPRESS CT          N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 14-2 RED CYPRESS CT CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   14 RED CYPRESS CT          N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 150-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   140 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 150-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   150 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 150-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   145 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 150-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   135 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16-1 RED CYPRESS CT CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15 RED CYPRESS CT          N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16-1 RED CYPRESS CT CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16 RED CYPRESS CT          N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 170-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   160 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 170-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   170 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 170-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   165 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 170-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   155 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 190-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   180 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 190-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   190 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 190-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   175 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 190-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   185 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 20-1 BERG CT CFST)      LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   20 BERG CT                 N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 210-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   200 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 210-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   210 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 210-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   195 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 210-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   197 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 210-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   210 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 210-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   220 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 225-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   225 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 225-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   215 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 225-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   220 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 225-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   230 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   220 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   235 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   230 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   225 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   230 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   240 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   245 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 230-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   235 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 235-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   235 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 235-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   230 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 235-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   210 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 235-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   235 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 235-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   225 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 240-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   240 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 245-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   245 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 245-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   255 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 245-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   235 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 245-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   245 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 245-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   240 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 245-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   250 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   250 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   260 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   245 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   255 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   250 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   260 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   255 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 250-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   265 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 255-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   255 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 255-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   240 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE, LA                                               
+ 
+ 
+LFACS   Granite(STEA=F 255-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   250 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 260-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   260 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 260-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   250 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 265-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   255 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 265-1 SILVER MAPLE DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   265 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 270-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   270 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 270-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   275 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 270-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   285 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 275-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   265 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 275-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   275 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 275-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   260 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 275-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   270 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 275-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   275 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 275-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   265 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 280-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   270 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 280-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   280 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 280-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   280 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 280-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   270 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 280-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   200 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 280-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   285 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 290-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   290 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 290-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   295 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 290-2 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   280 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 295-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   285 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 295-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   295 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 295-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   280 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 295-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   290 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 295-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   295 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 295-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   285 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 30-2 BERG CT CFST)      LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   30 BERG CT                 N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 30-2 BERG CT CFST)      LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   50 BERG CT                 N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 300-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   290 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 300-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   300 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 300-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   300 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 300-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   290 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 310-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   310 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 310-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   315 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 310-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   305 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-1 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   315 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-1 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   320 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-1 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   295 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   305 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   315 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   310 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   320 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   305 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   315 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   300 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 315-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   310 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 320-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   320 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 320-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   310 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   325 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   335 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   330 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   340 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   325 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   275 SILVER MAPLE DR        N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   310 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 325-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   320 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 330-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   330 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 330-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   340 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   325 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   335 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   330 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   320 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   333 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   335 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   330 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 335-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   340 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 340-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   330 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 340-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   340 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 340-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   335 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 340-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   325 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 345-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   345 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 345-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   355 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 345-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   360 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 345-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   350 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 35-1 BERG CT CFST)      LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   25 BERG CT                 N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 35-1 BERG CT CFST)      LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   35 BERG CT                 N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 350-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   350 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 350-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   345 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 350-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   355 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   355 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   345 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   370 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   360 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   345 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   355 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   350 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-1 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   360 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-2 CAMELLIA LN CFST) LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   355 CAMELLIA LN            N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-2 CAMELLIA LN CFST) LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   345 CAMELLIA LN            N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-2 CAMELLIA LN CFST) LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   320 CAMELLIA LN            N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 355-2 CAMELLIA LN CFST) LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   345 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 364-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   360 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 364-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   364 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 364-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   355 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 364-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   345 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   375 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   370 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   380 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   565 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   370 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 365-2 MOSS LN CFST)     LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   380 MOSS LN                N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 370-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   360 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 370-1 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   370 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   375 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   370 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-1 LOTUS DR S CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   360 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   375 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   385 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   375 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 375-2 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   380 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 380-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   370 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 380-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   380 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 380-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 380-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   375 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 380-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   380 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 385-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   385 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 385-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   395 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 385-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   400 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 385-2 JASMINE DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   390 JASMINE DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 390-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   390 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 390-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   400 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 390-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   380 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 390-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   390 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 390-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   385 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 390-2 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   395 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 395-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   395 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 395-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   385 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 398-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   398 AZALEA DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 398-1 AZALEA DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   425 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 399-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   399 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 400-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   390 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 400-2 BEAU RIVAGE DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   400 BEAU RIVAGE DR         N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 404-1 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   404 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 404-1 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   620 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 404-1 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   400 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 406-2 HEAVENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   400 HEAVENS DR             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 409-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   409 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 409-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   405 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 409-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   401 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 409-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   416 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 409-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   412 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 409-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   408 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 417-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   510 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 417-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   417 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 417-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   413 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 417-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   421 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 417-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   424 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 417-2 VENUS DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   420 VENUS DR               N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 420-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   420 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 420-2 HEAVENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   500 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 425-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   415 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 425-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   425 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 430-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   430 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 430-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   420 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 430-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   401 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 430-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   421 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 430-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   411 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 430-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   440 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 430-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   430 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 450-2 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   450 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 450-2 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   460 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 470-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   470 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 470-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   480 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 490-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   500 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 490-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   490 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 5-2 RED CYPRESS CT CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   5 RED CYPRESS CT           N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 5-2 RED CYPRESS CT CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   3 RED CYPRESS CT           N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 510-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   510 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 510-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   504 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 510-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   520 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 510-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   520 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 510-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   510 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 530-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   530 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 530-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   540 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 530-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   521 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 530-1 DORADO DR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   531 DORADO DR              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 530-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   540 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 530-1 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   530 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 541-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   539 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 541-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   541 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 550-2 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   550 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 550-2 LOTUS DR N CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   560 LOTUS DR N             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 561-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   561 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 561-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   601 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 561-1 GARDEN AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   610 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 9-1 RED CYPRESS CT CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   7 RED CYPRESS CT           N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 9-1 RED CYPRESS CT CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   8 RED CYPRESS CT           N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 9-1 RED CYPRESS CT CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   9 RED CYPRESS CT           N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=F 9-1 RED CYPRESS CT CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   10 RED CYPRESS CT          N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 315-1 HYACINTH LN CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   315 HYACINTH LN            N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 315-1 HYACINTH LN CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   311 HYACINTH LN            N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 315-1 HYACINTH LN CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   309 HYACINTH LN            N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 330-1 LOTUS DR S CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   330 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 330-1 LOTUS DR S CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   340 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 340-1 GARDEN AVE CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   350 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 340-1 GARDEN AVE CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   340 GARDEN AV              N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 350-1 LOTUS DR S CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   350 LOTUS DR S             N/A                              
+                                                                                
+                                                                                
+                   MANDEVILLE                                                   
+ 
+ 
+Job Comments:
+None.
+ 
+Loop Makeup For Failed Terminals:
+None.
+
+AOTX Throw/Recon/Load Coil/Splice/LST/FLST Tasks Report
+
+
+
+Special Circuit Information:
+PRINT  TASK                               FROM      FROM      
+NUMBER NUMBER CIRCUIT                     CABLE     PAIR  DISPOSITION
+
+End Of Task Report
+
+
+
