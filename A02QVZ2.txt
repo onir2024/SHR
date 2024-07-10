@@ -1,0 +1,1518 @@
+AOtX - Status Report
+ 
+ 
+Current Date: 7/10/2024 12:09:49
+Project: A02QVZ2 NPANNX: 225686 USERID: or585h
+ 
+ 
+ LFACS Errors:0
+None.
+ 
+ Granite Errors:0
+None.
+ 
+ LCAT Notifications: 
+N/A
+ 
+ 
+This project's fiber cables are automatically built into Granite,
+unless otherwise noted in the Granite Errors section of this report.
+ 
+Cables:
+ 
+LFACS   Granite                              
+Status  Status      Cable Range     Term Addr
+ 
+Terminals:
+ 
+LFACS   Granite
+Term    Term
+Status  Status  LMU     IPID/ION     REP  BZ   Terminal Address            Type  Flags
+N/A     DONE    N/A     136895276    N    N/A  F 15315-1 COURTNEY RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136895266    N    N/A  F 15335-1 COURTNEY RD CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136904400    N    N/A  F 15550-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136904379    N    N/A  F 15670-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136904330    N    N/A  F 15700-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136895998    N    N/A  F 15739-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136904311    N    N/A  F 15810-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136904292    N    N/A  F 15850-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136895791    N    N/A  F 16000-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136895735    N    N/A  F 16325-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136904468    N    N/A  F 16550-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136904484    N    N/A  F 16650-1 VARNADO RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136859893    N    N/A  F 16870-1 VARNADO RD CFST   FST   OB-Buried-SFU   
+N/A     DONE    N/A     136902800    N    N/A  F 30078-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136862381    N    N/A  F 31133-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136866138    N    N/A  F 31145-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136866171    N    N/A  F 31153-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136866193    N    N/A  F 31157-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136866634    N    N/A  F 31295-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136866606    N    N/A  F 31319-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136896302    N    N/A  F 31390-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136896370    N    N/A  F 31412-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136866640    N    N/A  F 31413-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136896388    N    N/A  F 31430-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136896442    N    N/A  F 31530-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136902785    N    N/A  F 31584-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136859974    N    N/A  F 31650-1 JEWEL WATTS RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136859933    N    N/A  F 31692-1 JEWEL WATTS RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136859913    N    N/A  F 31710-1 JEWEL WATTS RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898600    N    N/A  F 31718-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136859953    N    N/A  F 31720-1 JEWEL WATTS RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898738    N    N/A  F 31870-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136860862    N    N/A  F 31915-1 BEASLEY RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898751    N    N/A  F 31924-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136860888    N    N/A  F 31939-1 BEASLEY RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898798    N    N/A  F 31958-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136895231    N    N/A  F 31975-1 N CORBIN RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136860897    N    N/A  F 31991-1 BEASLEY RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898986    N    N/A  F 32000-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136860909    N    N/A  F 32013-1 BEASLEY RD CFST   FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898993    N    N/A  F 32021-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898999    N    N/A  F 32090-1 CANE MARKET RD CFSFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136899031    N    N/A  F 32260-1 CANE MARKET RD CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136869498    N    N/A  F 32416-1 MANGUM CHAPEL RD CFST   OB-Buried-SFU   
+N/A     DONE    N/A     136869647    N    N/A  F 32730-1 BILL WILLIAMS RD CFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898594    N    N/A  F 32808-1 BAUGHMAN RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136898620    N    N/A  F 32940-1 BAUGHMAN RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136869514    N    N/A  F 33182-1 MANGUM CHAPEL RD CFST   OB-Buried-SFU   
+N/A     DONE    N/A     137062411    N    N/A  F 33202-1 MANGUM CHAPEL RD CFST   OB-Buried-SFU   
+N/A     DONE    N/A     136904418    N    N/A  OPP 15510-1 VARNADO RD CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136973960    N    N/A  OPP 16750-1 VARNADO RD CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     137177226    N    N/A  OPP 31393-1 CANE MARKET RD CFST   OB-Buried-SFU   
+N/A     DONE    N/A     136896406    N    N/A  OPP 31495-1 CANE MARKET RD CFST   OB-Buried-SFU   
+N/A     DONE    N/A     136896462    N    N/A  OPP 31553-1 CANE MARKET RD CFST   OB-Buried-SFU   
+N/A     DONE    N/A     136898691    N    N/A  OPP 31764-1 CANE MARKET RD CFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136973951    N    N/A  OPP 31785-1 GALLMAN DR CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898710    N    N/A  OPP 31818-1 CANE MARKET RD CFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136899028    N    N/A  OPP 32271-1 CANE MARKET RD CFST   OB-Buried-SFU   
+N/A     DONE    N/A     136896161    N    N/A  OPP 32481-1 MANGUM CHAPEL RDFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136896181    N    N/A  OPP 32525-1 MANGUM CHAPEL RDFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136896231    N    N/A  OPP 32561-1 MANGUM CHAPEL RDFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136896240    N    N/A  OPP 32627-1 MANGUM CHAPEL RDFST   OB-Buried-SFU   
+N/A     DONE    N/A     136869613    N    N/A  OPP 32700-1 BILL WILLIAMS RDFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136898612    N    N/A  OPP 32757-1 BAUGHMAN RD CFSTFST   OB-Buried-SFU   
+N/A     DONE    N/A     137041994    N    N/A  LGX-30702 CANE MARKET RD FBTFBT   OB-NA-SFU       
+ 
+ 
+ 
+HDT PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+ONX PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+Facility Addresses:
+ 
+LFACS   Granite(STEA=F 15315-1 COURTNEY RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15315 COURTNEY RD          N/A                              
+                                                                                
+                                                                                
+                   WALKER                                                       
+ 
+ 
+LFACS   Granite(STEA=F 15315-1 COURTNEY RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15325 COURTNEY RD          N/A                              
+                                                                                
+                                                                                
+                   WALKER                                                       
+ 
+ 
+LFACS   Granite(STEA=F 15335-1 COURTNEY RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15385 COURTNEY RD          N/A                              
+                                                                                
+                                                                                
+                   WALKER                                                       
+ 
+ 
+LFACS   Granite(STEA=F 15335-1 COURTNEY RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15335 COURTNEY RD          N/A                              
+                                                                                
+                                                                                
+                   WALKER                                                       
+ 
+ 
+LFACS   Granite(STEA=F 15550-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15610 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15550-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15550 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15550-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15560 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15550-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15605 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15670-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15760 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15670-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15670 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15670-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15650 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15670-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15709 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15700-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15700 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15700-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15757 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15700-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15741 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15700-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15725 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15739-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15739 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15739-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15920 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15739-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15910 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15810-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15840 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15810-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15810 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15810-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15821 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15810-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15805 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15810-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15789 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15810-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15773 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15850-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15900 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 15850-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15850 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16000-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16000 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16325-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16325 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16550-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16550 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16550-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16490 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16550-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16496 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16650-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16650 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16870-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16870 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 16870-1 VARNADO RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16890 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 30078-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   30078 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31133-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31133 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31133-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31046 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31145-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31145 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31145-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31141 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31153-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31149 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31153-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31153 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31153-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31144 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31157-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31161 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31157-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31157 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31295-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31295 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31295-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31263 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31319-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31169 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31319-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31165 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31319-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31319 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31319-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31112 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31319-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31228 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31319-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31218 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31390-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31366 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31390-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31390 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31412-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31412 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31412-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31393 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31413-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31413 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31430-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31430 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31430-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31439 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31430-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31417 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31530-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31530 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31584-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31584 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31584-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31577 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31650-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31646 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31650-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31650 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31650-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31649 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31650-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31633 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31692-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31708 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31692-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31692 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31692-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31685 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31710-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31710 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31710-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31712 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31710-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31711 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31710-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16790 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31718-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31718 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31718-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32750 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31720-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31724 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31720-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31720 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31720-1 JEWEL WATTS RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31716 JEWEL WATTS RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31870-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31870 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31870-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31850 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31915-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16615 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31915-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31850 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31915-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31874 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31915-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31896 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31915-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16739 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31924-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31924 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31924-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31904 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31939-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31915 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31939-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31939 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31939-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31918 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31939-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31942 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31958-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31958 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31975-1 N CORBIN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31975 N CORBIN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31975-1 N CORBIN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31960 N CORBIN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31975-1 N CORBIN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31970 N CORBIN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31991-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31973 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31991-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31991 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 31991-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31994 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32000-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32000 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32000-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31981 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32000-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32010 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32000-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32060 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32013-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32013 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32013-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32041 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32013-1 BEASLEY RD CFST)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32016 BEASLEY RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32021-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32021 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32021-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32054 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32021-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32092 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32021-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32120 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32090-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32090 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32090-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32132 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32260-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32260 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32260-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32229 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32260-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32217 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32260-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32213 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32260-1 CANE MARKET RD CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32275 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32416-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32699 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32416-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32416 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32416-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32738 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32416-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32720 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32730-1 BILL WILLIAMS RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32730 BILL WILLIAMS LN     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32730-1 BILL WILLIAMS RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32750 BILL WILLIAMS LN     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32730-1 BILL WILLIAMS RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32751 BILL WILLIAMS LN     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32730-1 BILL WILLIAMS RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32785 BILL WILLIAMS LN     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32730-1 BILL WILLIAMS RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32825 BILL WILLIAMS LN     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32808-1 BAUGHMAN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32808 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32808-1 BAUGHMAN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32780 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32940-1 BAUGHMAN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32930 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32940-1 BAUGHMAN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32940 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32940-1 BAUGHMAN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32907 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 32940-1 BAUGHMAN RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33020 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33182-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32748 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33182-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33182 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33182-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33159 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33202-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33202 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33202-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33172 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33202-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33189 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33202-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33199 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33202-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33197 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=F 33202-1 MANGUM CHAPEL RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   33158 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 15510-1 VARNADO RD CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15490 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 15510-1 VARNADO RD CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15510 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 15510-1 VARNADO RD CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   15530 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 16750-1 VARNADO RD CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16750 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 16750-1 VARNADO RD CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   16740 VARNADO RD           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 16750-1 VARNADO RD CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31769 GALLMAN DR           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31495-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31495 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31553-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31553 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31553-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31525 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31764-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31764 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31764-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31778 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31785-1 GALLMAN DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31785 GALLMAN DR           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31785-1 GALLMAN DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31767 GALLMAN DR           N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31818-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31818 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 31818-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   31796 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32271-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32271 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32271-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32221 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32271-1 CANE MARKET RDLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32249 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32481-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32447 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32481-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32481 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32525-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32525 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32525-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32507 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32525-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32515 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32561-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32561 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32627-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32795 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32627-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32785 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32627-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32627 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32627-1 MANGUM CHAPEL LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32647 MANGUM CHAPEL RD     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32700-1 BILL WILLIAMS LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32700 BILL WILLIAMS LN     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32700-1 BILL WILLIAMS LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32660 BILL WILLIAMS LN     N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=OPP 32757-1 BAUGHMAN RD CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   32757 BAUGHMAN RD          N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON                                                   
+ 
+ 
+LFACS   Granite(STEA=LGX-30702 CANE MARKET RD FLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   30702 CANE MARKET RD       N/A                              
+                                                                                
+                                                                                
+                   LIVINGSTON, LA                                               
+ 
+ 
+Job Comments:
+None.
+ 
+Loop Makeup For Failed Terminals:
+None.
+
+AOTX Throw/Recon/Load Coil/Splice/LST/FLST Tasks Report
+
+
+
+Special Circuit Information:
+PRINT  TASK                               FROM      FROM      
+NUMBER NUMBER CIRCUIT                     CABLE     PAIR  DISPOSITION
+
+End Of Task Report
+
+
+
