@@ -1,0 +1,2583 @@
+AOtX - Status Report
+ 
+ 
+Current Date: 10/2/2024 10:52:30
+Project: A02QBAX NPANNX: 225766 USERID: or585h
+ 
+ 
+ LFACS Errors:0
+None.
+ 
+ Granite Errors:27
+ADXFA  725 S LAKEVIEW DR  BATON ROUGE(136655465):Terminal: 'F 441-1 ARBOR CT FST' build failed, SFU: 725 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFA  688 S LAKEVIEW DR  BATON ROUGE(136655465):Terminal: 'F 441-1 ARBOR CT FST' build failed, SFU: 688 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFA  441 ARBOR CT  BATON ROUGE(136655465):Terminal: 'F 441-1 ARBOR CT FST' build failed, SFU: 441 ARBOR CT BATON ROUGE will not build.
+ADXFA  566 S LAKEVIEW DR  BATON ROUGE(136657065):Terminal: 'F 566-1 S LAKEVIEW DR FST' build failed, SFU: 566 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFA  622 S LAKEVIEW DR  BATON ROUGE(136657065):Terminal: 'F 566-1 S LAKEVIEW DR FST' build failed, SFU: 622 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFA  644 S LAKEVIEW DR  BATON ROUGE(136657065):Terminal: 'F 566-1 S LAKEVIEW DR FST' build failed, SFU: 644 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFA  666 S LAKEVIEW DR  BATON ROUGE(136657065):Terminal: 'F 566-1 S LAKEVIEW DR FST' build failed, SFU: 666 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFA  11652 RUE VILLANTRAY ST  BATON ROUGE(136647118):Terminal: 'R 11652-1 RUE VILLANTRAY ST FST' build failed, SFU: 11652 RUE VILLANTRAY ST BATON ROUGE will not build.
+ADXFA  11674 RUE VILLANTRAY ST  BATON ROUGE(136647118):Terminal: 'R 11652-1 RUE VILLANTRAY ST FST' build failed, SFU: 11674 RUE VILLANTRAY ST BATON ROUGE will not build.
+ADXFA  382 HUNTINGTON DR  BATON ROUGE(136655399):Terminal: 'R 420-1 HUNTINGTON DR FST' build failed, SFU: 382 HUNTINGTON DR BATON ROUGE will not build.
+ADXFA  420 HUNTINGTON DR  BATON ROUGE(136655399):Terminal: 'R 420-1 HUNTINGTON DR FST' build failed, SFU: 420 HUNTINGTON DR BATON ROUGE will not build.
+ADXFA  419 CORBY DR  BATON ROUGE(136655399):Terminal: 'R 420-1 HUNTINGTON DR FST' build failed, SFU: 419 CORBY DR BATON ROUGE will not build.
+ADXFA  433 CORBY DR  BATON ROUGE(136655399):Terminal: 'R 420-1 HUNTINGTON DR FST' build failed, SFU: 433 CORBY DR BATON ROUGE will not build.
+ADXFA  440 HUNTINGTON DR  BATON ROUGE(136655404):Terminal: 'R 460-1 HUNTINGTON DR FST' build failed, SFU: 440 HUNTINGTON DR BATON ROUGE will not build.
+ADXFA  460 HUNTINGTON DR  BATON ROUGE(136655404):Terminal: 'R 460-1 HUNTINGTON DR FST' build failed, SFU: 460 HUNTINGTON DR BATON ROUGE will not build.
+ADXFA  455 CORBY DR  BATON ROUGE(136655404):Terminal: 'R 460-1 HUNTINGTON DR FST' build failed, SFU: 455 CORBY DR BATON ROUGE will not build.
+ADXFA  467 CORBY DR  BATON ROUGE(136655404):Terminal: 'R 460-1 HUNTINGTON DR FST' build failed, SFU: 467 CORBY DR BATON ROUGE will not build.
+ADXFA  479 CORBY DR  BATON ROUGE(136655404):Terminal: 'R 460-1 HUNTINGTON DR FST' build failed, SFU: 479 CORBY DR BATON ROUGE will not build.
+ADXFA  450 COURT ST  BATON ROUGE(136655440):Terminal: 'R 527-1 S LAKEVIEW DR FST' build failed, SFU: 450 COURT ST BATON ROUGE will not build.
+ADXFA  565 S LAKEVIEW DR  BATON ROUGE(136655440):Terminal: 'R 527-1 S LAKEVIEW DR FST' build failed, SFU: 565 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFA  527 S LAKEVIEW DR  BATON ROUGE(136655440):Terminal: 'R 527-1 S LAKEVIEW DR FST' build failed, SFU: 527 S LAKEVIEW DR BATON ROUGE will not build.
+ADXFST F 441-1 ARBOR CT FST (136655465):Xng RC Exception In Layer "com.sbc.mgs.xngpb.fttx.FTTXBusLogicLayer": Caught: manageQueryEquipment: Query EPTS: F 441-1 ARBOR CT CFST : Invalid port range between 9 and 16 for card : 01 : Exception in retrieveEPTSInfo() method: manageQueryEquipment: Query EPTS: F 441-1 ARBOR CT CFST : Invalid port range between 9 and 16 for card : 01 :  :  exception:com.sbc.mgs.xngpb.XngpbException
+ADXFST F 566-1 S LAKEVIEW DR FST (136657065):Xng RC Exception In Layer "com.sbc.mgs.xngpb.fttx.FTTXBusLogicLayer": Caught: manageQueryEquipment: Query EPTS: F 566-1 S LAKEVIEW DR CFST : Invalid port range between 9 and 16 for card : 01 : Exception in retrieveEPTSInfo() method: manageQueryEquipment: Query EPTS: F 566-1 S LAKEVIEW DR CFST : Invalid port range between 9 and 16 for card : 01 :  :  exception:com.sbc.mgs.xngpb.XngpbException
+ADXFST R 11652-1 RUE VILLANTRAY ST FST (136647118):Xng RC Exception In Layer "com.sbc.mgs.xngpb.fttx.FTTXBusLogicLayer": Caught: manageQueryEquipment: Query EPTS: R 11652-1 RUE VILLANTRAY ST CFST : Invalid port range between 9 and 16 for card : 01 : Exception in retrieveEPTSInfo() method: manageQueryEquipment: Query EPTS: R 11652-1 RUE VILLANTRAY ST CFST : Invalid port range between 9 and 16 for card : 01 :  :  exception:com.sbc.mgs.xngpb.XngpbException
+ADXFST R 420-1 HUNTINGTON DR FST (136655399):Xng RC Exception In Layer "com.sbc.mgs.xngpb.fttx.FTTXBusLogicLayer": Caught: manageQueryEquipment: Query EPTS: R 420-1 HUNTINGTON DR CFST : Invalid port range between 9 and 16 for card : 01 : Exception in retrieveEPTSInfo() method: manageQueryEquipment: Query EPTS: R 420-1 HUNTINGTON DR CFST : Invalid port range between 9 and 16 for card : 01 :  :  exception:com.sbc.mgs.xngpb.XngpbException
+ADXFST R 460-1 HUNTINGTON DR FST (136655404):Xng RC Exception In Layer "com.sbc.mgs.xngpb.fttx.FTTXBusLogicLayer": Caught: manageQueryEquipment: Query EPTS: R 460-1 HUNTINGTON DR CFST : Invalid port range between 13 and 24 for card : 01 : Exception in retrieveEPTSInfo() method: manageQueryEquipment: Query EPTS: R 460-1 HUNTINGTON DR CFST : Invalid port range between 13 and 24 for card : 01 :  :  exception:com.sbc.mgs.xngpb.XngpbException
+ADXFST R 527-1 S LAKEVIEW DR FST (136655440):Xng RC Exception In Layer "com.sbc.mgs.xngpb.fttx.FTTXBusLogicLayer": Caught: manageQueryEquipment: Query EPTS: R 527-1 S LAKEVIEW DR CFST : Invalid port range between 13 and 24 for card : 01 : Exception in retrieveEPTSInfo() method: manageQueryEquipment: Query EPTS: R 527-1 S LAKEVIEW DR CFST : Invalid port range between 13 and 24 for card : 01 :  :  exception:com.sbc.mgs.xngpb.XngpbException
+ 
+ LCAT Notifications: 
+N/A
+ 
+ 
+This project's fiber cables are automatically built into Granite,
+unless otherwise noted in the Granite Errors section of this report.
+ 
+Cables:
+ 
+LFACS   Granite                              
+Status  Status      Cable Range     Term Addr
+ 
+Terminals:
+ 
+LFACS   Granite
+Term    Term
+Status  Status  LMU     IPID/ION     REP  BZ   Terminal Address            Type  Flags
+N/A     DONE    N/A     136655718    N    N/A  F 1046-1 W LAKEVIEW DR CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136656249    N    N/A  F 1047-1 E LAKEVIEW DR CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136656237    N    N/A  F 1068-1 E LAKEVIEW DR CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136641968    N    N/A  F 10820-1 HIGHLAND RD CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136641929    N    N/A  F 11080-1 HIGHLAND RD CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136641924    N    N/A  F 11130-1 HIGHLAND RD CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136656217    N    N/A  F 1125-1 E LAKEVIEW DR CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136641912    N    N/A  F 11308-1 HIGHLAND RD CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655728    N    N/A  F 1146-1 W LAKEVIEW DR CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136646961    N    N/A  F 11525-1 HIGHLAND RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655232    N    N/A  F 11529-1 RUE DE TONTI CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655237    N    N/A  F 11545-1 RUE DE TONTI CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136646969    N    N/A  F 11571-1 HIGHLAND RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136646929    N    N/A  F 11643-1 HIGHLAND RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136646938    N    N/A  F 11655-1 HIGHLAND RD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655243    N    N/A  F 11659-1 RUE DE TONTI CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136641933    N    N/A  F 11840-1 HIGHLAND RD CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655202    N    N/A  F 11952-1 PECAN GROVE CT CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136655191    N    N/A  F 11974-1 PECAN GROVE CT CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136655736    N    N/A  F 1201-1 W LAKEVIEW DR CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655181    N    N/A  F 12048-1 PECAN GROVE CT CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136656492    N    N/A  F 12152-1 N LAKEVIEW DR CFSTFST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655505    N    N/A  F 402-1 ARBOR CT CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655512    N    N/A  F 411-1 ARBOR CT CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655487    N    N/A  F 422-1 ARBOR CT CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655627    N    N/A  F 431-1 ARBOR CT CFST       FST   OB-Buried-SFU   
+N/A     ERR2    N/A     136655465    N    N/A  F 441-1 ARBOR CT CFST       FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136657058    N    N/A  F 522-1 S LAKEVIEW DR CFST  FST   OB-Buried-SFU   
+N/A     ERR2    N/A     136657065    N    N/A  F 566-1 S LAKEVIEW DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136657054    N    N/A  F 677-1 OAK HILLS PKWY CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655249    N    N/A  F 723-1 RUE CROZAT CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655477    N    N/A  F 734-1 S LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136657048    N    N/A  F 767-1 OAK HILLS PKWY CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655667    N    N/A  F 841-1 W LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655679    N    N/A  F 857-1 W LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136656305    N    N/A  F 917-1 E LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136656281    N    N/A  F 947-1 E LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655687    N    N/A  F 953-1 W LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136656259    N    N/A  F 965-1 E LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655702    N    N/A  F 998-1 W LAKEVIEW DR CFST  FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136656132    N    N/A  R 1042-1 VERDUN DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136656156    N    N/A  R 1128-1 VERDUN DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136656457    N    N/A  R 1142-1 AMIENS DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647097    N    N/A  R 11528-1 RUE VILLANTRAY ST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655322    N    N/A  R 11546-1 RUE DE TONTI CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655329    N    N/A  R 11554-1 RUE DE TONTI CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647106    N    N/A  R 11576-1 RUE VILLANTRAY ST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655271    N    N/A  R 11619-1 RUE CONCORD CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655332    N    N/A  R 11640-1 RUE DE TONTI CFST FST   OB-Buried-SFU   
+N/A     ERR2    N/A     136647118    N    N/A  R 11652-1 RUE VILLANTRAY ST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136656175    N    N/A  R 1168-1 VERDUN DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655342    N    N/A  R 11680-1 RUE DE TONTI CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136656195    N    N/A  R 1172-1 VERDUN DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647169    N    N/A  R 11724-1 PECAN GROVE CT CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136647198    N    N/A  R 11735-1 PECAN GROVE CT CFSFST   OB-Buried-SFU   
+N/A     DONE    N/A     136656472    N    N/A  R 11912-1 N OAK HILLS PKWY CFST   OB-Buried-SFU   
+N/A     DONE    N/A     136656464    N    N/A  R 1206-1 AMIENS DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136656207    N    N/A  R 1234-1 VERDUN DR CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647002    N    N/A  R 157-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136675083    N    N/A  R 186-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647012    N    N/A  R 227-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136641972    N    N/A  R 228-1 RUE DE LAPLACE CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655384    N    N/A  R 236-1 HUNTINGTON DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647205    N    N/A  R 244-1 CORBY DR CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655135    N    N/A  R 255-1 COURT ST CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647017    N    N/A  R 263-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136646867    N    N/A  R 264-1 RUE DE LAPLACE CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655418    N    N/A  R 267-1 OAK HILLS PKWY CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136715266    N    N/A  R 282-1 HUNTINGTON DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655388    N    N/A  R 322-1 HUNTINGTON DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647028    N    N/A  R 325-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136646882    N    N/A  R 326-1 RUE DE LAPLACE CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136647224    N    N/A  R 344-1 CORBY DR CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655142    N    N/A  R 349-1 COURT ST CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655391    N    N/A  R 358-1 HUNTINGTON DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655424    N    N/A  R 359-1 OAK HILLS PKWY CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647035    N    N/A  R 361-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136646910    N    N/A  R 362-1 RUE DE LAPLACE CFST FST   OB-Aerial-SFU   
+N/A     DONE    N/A     136655150    N    N/A  R 377-1 COURT ST CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647235    N    N/A  R 420-1 CORBY DR CFST       FST   OB-Buried-SFU   
+N/A     ERR2    N/A     136655399    N    N/A  R 420-1 HUNTINGTON DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647037    N    N/A  R 439-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647070    N    N/A  R 440-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655427    N    N/A  R 447-1 OAK HILLS PKWY CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655156    N    N/A  R 455-1 COURT ST CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647043    N    N/A  R 455-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647091    N    N/A  R 456-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647246    N    N/A  R 460-1 CORBY DR CFST       FST   OB-Buried-SFU   
+N/A     ERR2    N/A     136655404    N    N/A  R 460-1 HUNTINGTON DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647047    N    N/A  R 471-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647254    N    N/A  R 478-1 CORBY DR CFST       FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647262    N    N/A  R 488-1 CORBY DR CFST       FST   OB-Buried-SFU   
+N/A     ERR2    N/A     136655440    N    N/A  R 527-1 S LAKEVIEW DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647050    N    N/A  R 537-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136647056    N    N/A  R 583-1 RUE DE LAPLACE CFST FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655164    N    N/A  R 631-1 S LAKEVIEW DR CFST  FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655347    N    N/A  R 650-1 RUE CROZAT CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655363    N    N/A  R 724-1 RUE CROZAT CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655254    N    N/A  R 759-1 RUE CROZAT CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655264    N    N/A  R 843-1 RUE CROZAT CFST     FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655299    N    N/A  R 845-1 DIRON CIR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655316    N    N/A  R 864-1 DIRON CIR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     136655309    N    N/A  R 882-1 DIRON CIR CFST      FST   OB-Buried-SFU   
+N/A     DONE    N/A     136650921    N    N/A  F 11855-1 HIGHLAND RD FBT   FBT   OB-NA-SFU       
+ 
+ 
+ 
+HDT PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+ONX PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+Facility Addresses:
+ 
+LFACS   Granite(STEA=F 1046-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1046 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1046-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1058 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1046-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1055 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1046-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1066 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1046-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1124 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1046-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1067 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1046-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1125 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1047-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1047 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1047-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1025 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1047-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1056 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1047-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1044 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1068-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1068 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1068-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1087 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1068-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1069 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 10820-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   10820 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 10820-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   10995 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11080-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11080 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11130-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11130 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11130-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11220 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11130-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11211 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1125-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1125 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1125-1 E LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1157 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11308-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11308 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11308-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11338 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1146-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1134 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1146-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1146 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1146-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1135 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11525-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11525 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11525-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11553 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11529-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11489 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11529-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11529 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11545-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11537 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11545-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11545 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11571-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11571 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11643-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11625 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11643-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11643 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11655-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11655 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11655-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11729 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11659-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11553 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11659-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11659 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11840-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   10840 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11840-1 HIGHLAND RD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11010 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11952-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11952 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11974-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11974 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11974-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12026 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1201-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1167 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1201-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1201 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1201-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12016 CHESTER DR           N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1201-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1215 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 1201-1 W LAKEVIEW DR CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1227 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 12048-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12048 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 12048-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12070 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 12152-1 N LAKEVIEW DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12152 N LAKEVIEW DR        N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 12152-1 N LAKEVIEW DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12190 N LAKEVIEW DR        N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 12152-1 N LAKEVIEW DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12234 N LAKEVIEW DR        N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 12152-1 N LAKEVIEW DR CFLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12244 N LAKEVIEW DR        N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 402-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   402 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 411-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   401 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 411-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   411 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 422-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   422 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 422-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   432 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 431-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   421 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 431-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   431 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 441-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   725 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 441-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   688 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 441-1 ARBOR CT CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   441 ARBOR CT               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 522-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   522 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 522-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   544 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 566-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   566 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 566-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   622 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 566-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   644 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 566-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   666 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 677-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   735 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 677-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   677 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 677-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   633 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 677-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   545 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 723-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   723 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 723-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11675 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 734-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   734 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 734-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   722 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 767-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   767 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 767-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12266 N LAKEVIEW DR        N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 841-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   841 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 841-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   814 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 841-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   792 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 857-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   857 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 857-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   869 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 857-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   826 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 857-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   866 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 857-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   870 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   917 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   867 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   855 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   833 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   821 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   822 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   850 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 917-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12120 N LAKEVIEW DR        N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 947-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   929 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 947-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   947 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 947-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   932 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 947-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   12123 N LAKEVIEW DR        N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 953-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   933 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 953-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   953 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 953-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   922 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 953-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   944 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 953-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   952 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 965-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   953 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 965-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   965 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 965-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   944 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 965-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   962 E LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 965-1 E LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1024 E LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 998-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   998 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 998-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1032 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 998-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   999 W LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 998-1 W LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1033 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1042-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   960 VERDUN DR              N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1042-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1042 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1128-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1082 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1128-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1128 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1142-1 AMIENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1142 AMIENS DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1142-1 AMIENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1129 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1142-1 AMIENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1137 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11528-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11528 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11528-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11558 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11546-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11538 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11546-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11546 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11546-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11529 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11546-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11557 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11554-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11554 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11554-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11565 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11554-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11583 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11576-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11576 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11576-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11620 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11576-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   479 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11576-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   482 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11619-1 RUE CONCORD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11633 RUE CONCORD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11619-1 RUE CONCORD CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11619 RUE CONCORD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11640-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11620 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11640-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11640 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11640-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11621 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11640-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11651 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11652-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   11652 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11652-1 RUE VILLANTRAY SLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   11674 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1168-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1148 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1168-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1168 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11680-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11660 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11680-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11680 RUE DE TONTI         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11680-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11673 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11680-1 RUE DE TONTI CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11697 RUE VILLANTRAY ST    N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1172-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1170 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1172-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1172 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11724-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11724 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11724-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11688 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11724-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11666 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11724-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   142 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11735-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11735 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11735-1 PECAN GROVE CT CLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   220 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11912-1 N OAK HILLS PKWYLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11906 N OAK HILLS PKWY     N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11912-1 N OAK HILLS PKWYLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11912 N OAK HILLS PKWY     N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11912-1 N OAK HILLS PKWYLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11924 N OAK HILLS PKWY     N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 11912-1 N OAK HILLS PKWYLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1229 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1206-1 AMIENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1158 AMIENS DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1206-1 AMIENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1206 AMIENS DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1206-1 AMIENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1143 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1206-1 AMIENS DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1167 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1234-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1226 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1234-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1234 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1234-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1246 VERDUN DR             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 1234-1 VERDUN DR CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   1229 W LAKEVIEW DR         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 157-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   157 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 157-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   139 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 186-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   186 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 186-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   158 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 186-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   177 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 186-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   139 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 227-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   185 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 227-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   227 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 227-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11365 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 227-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11297 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 227-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11325 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 228-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   228 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 228-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   246 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 228-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   221 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 236-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11625 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 236-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   236 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 236-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   243 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 236-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11665 PECAN GROVE CT       N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 244-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   244 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 244-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   288 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 255-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   255 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 255-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   233 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 263-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   245 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 263-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   263 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 264-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   264 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 264-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   282 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 264-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   257 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 264-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   235 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 267-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   267 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 267-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   221 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 267-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   234 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 267-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   256 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 282-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   258 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 282-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   282 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 282-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   265 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 322-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   322 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 322-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   287 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 322-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   321 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 325-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   325 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 325-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   281 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 326-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   326 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 326-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   344 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 326-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   281 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 326-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   321 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 344-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   322 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 344-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   344 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 349-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   325 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 349-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   349 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 358-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   336 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 358-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   358 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 358-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   347 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 358-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 359-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   324 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 359-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   350 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 359-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   333 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 359-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   359 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 361-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   361 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 361-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   343 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 362-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   362 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 362-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   380 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 362-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   343 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 362-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 362-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   387 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 377-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   377 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 377-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   365 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 420-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   366 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 420-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   420 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 420-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   382 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 420-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   420 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 420-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   419 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 420-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   433 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 439-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   379 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 439-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   439 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 440-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   440 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 440-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   448 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 440-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   419 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 440-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   433 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 447-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   368 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 447-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   424 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 447-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   425 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 447-1 OAK HILLS PKWY CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   447 OAK HILLS PKWY         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 455-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   455 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 455-1 COURT ST CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   435 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 455-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   455 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 455-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   447 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 456-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   456 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 456-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   464 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 456-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   455 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 460-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   440 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 460-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   460 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 460-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   440 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 460-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   460 HUNTINGTON DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 460-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   455 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 460-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   467 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 460-1 HUNTINGTON DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   479 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 471-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   471 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 471-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   463 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 478-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   478 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 478-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   466 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 488-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   480 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 488-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   488 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 488-1 CORBY DR CFST)    LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   496 CORBY DR               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 527-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   450 COURT ST               N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 527-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   565 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 527-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     ERR2    Y   527 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 537-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   537 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 537-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   485 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 583-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   583 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 583-1 RUE DE LAPLACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   555 RUE DE LAPLACE         N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 631-1 S LAKEVIEW DR CFSTLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   631 S LAKEVIEW DR          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 650-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   630 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 650-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   650 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 724-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   724 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 724-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   742 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 724-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   760 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 759-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   759 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 759-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   741 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 843-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   825 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 843-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   843 RUE CROZAT             N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 843-1 RUE CROZAT CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11645 RUE CONCORD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 845-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   845 DIRON CIR              N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 845-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11543 RUE CONCORD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 845-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11567 RUE CONCORD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 864-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   864 DIRON CIR              N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 864-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   828 DIRON CIR              N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 864-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11667 RUE CONCORD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 882-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   882 DIRON CIR              N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=R 882-1 DIRON CIR CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   863 DIRON CIR              N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+LFACS   Granite(STEA=F 11855-1 HIGHLAND RD FBT)LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A     DONE    Y   11855 HIGHLAND RD          N/A                              
+                                                                                
+                                                                                
+                   BATON ROUGE                                                  
+ 
+ 
+Job Comments:
+None.
+ 
+Loop Makeup For Failed Terminals:
+None.
+
+AOTX Throw/Recon/Load Coil/Splice/LST/FLST Tasks Report
+
+
+
+Special Circuit Information:
+PRINT  TASK                               FROM      FROM      
+NUMBER NUMBER CIRCUIT                     CABLE     PAIR  DISPOSITION
+
+End Of Task Report
+
+
+
