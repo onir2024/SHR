@@ -1,0 +1,18 @@
+SCOPE:  Pl Primary Flex Point (PFP) and assoc. facilities to provide GPON facilities at PON Serving Area (PSA) 2126pd to overbuild area from Custer FDP-FPS-LOC-376(RENAMED TO 2649 NW 18TH CT PFP) 
+WHAT:  
+ 
+1. Place a BJBNS864-100 PFP in the easement at address 2649 NW 18TH CT, bring the f1 tail to splice fid 7614699 inside 6829975 and activate OA022,537-540. See the PFP sizing tool in the MIC Planning Folder for the PFP sizing, and types and number of units behind, served by this PFP. The PFP cabinet is equipped with (0) splitter modules.  One  1X64 splitter modules are required based on anticipated take rates and LUs indicated on the PFP sizing tool.  Mod AAJUT. 
+ 
+PFP information  
+a. Pon count- pon2126pd ,1-864 
+b. Splitter Count-SPT2126pd ,1-64 
+c. CLLI FTLKFLLUJ00 
+2. FAP information: Create FAP F2126d at front of this PFP with the count Oa022,537-540  
+3. See file "additional detail" for supplementary information about this project.  
+Where: see Mic components  
+Note: FIG not required. "A" termination already in granite 
+ 
+WHY: Project was triggered to overbuild copper DA 212602 
+WHY THIS WAY:   This PSA was served from a CO OLT with Split Ratio 1x64 because the estimated measured loss was such that Split Ratio splitters were recommended as per the Optical Budget Summary located in the PFP Sizing Tool located in the MIC Planning folder and ATT-TELCO-002-600-699 section 2.3. Environment is not critical to design of feeder facilities on this project. Where buried environment is specified, it was chosen so NECAT will reflect worst-case pricing since actual environment is unknown at time of handoff. This project was planned according to the latest FTTP guidelines.  
+WHY NOW: The PFP placement for GPON service is being proposed now because the DAs 212602 have been approved for FOB. 
+ 
