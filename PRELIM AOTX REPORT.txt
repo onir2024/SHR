@@ -1,0 +1,2583 @@
+AOtX - Status Report
+ 
+ 
+Current Date: 2/14/2025 16:43:22
+Project: A051RMD NPANNX: 954484 USERID: or585h
+ 
+ 
+ LFACS Errors:0
+None.
+ 
+ Granite Errors:0
+None.
+ 
+ LCAT Notifications: 
+N/A
+ 
+ 
+This project's fiber cables are automatically built into Granite,
+unless otherwise noted in the Granite Errors section of this report.
+ 
+Cables:
+ 
+LFACS   Granite                              
+Status  Status      Cable Range     Term Addr
+ 
+Terminals:
+ 
+LFACS   Granite
+Term    Term
+Status  Status  LMU     IPID/ION     REP  BZ   Terminal Address            Type  Flags
+N/A     NEW     N/A     139667141    N    N/A  F 1738 NW 29TH LN CFST      FST   null-null-null  
+N/A     NEW     N/A     139666854    N    N/A  F 1741 NW 29TH LN CFST      FST   null-null-null  
+N/A     NEW     N/A     139667147    N    N/A  F 1741 NW 29TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666832    N    N/A  F 1742 NW 29TH WAY CFST     FST   null-null-null  
+N/A     NEW     N/A     139666837    N    N/A  F 1743 NW 29TH WAY CFST     FST   null-null-null  
+N/A     NEW     N/A     139666797    N    N/A  F 1750 NW 29TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667113    N    N/A  F 1870 NW 28TH TERRACE CFST FST   null-null-null  
+N/A     NEW     N/A     139666845    N    N/A  F 2800 NW 19TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666813    N    N/A  R 1700 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666825    N    N/A  R 1700 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667137    N    N/A  R 1700 NW 27TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666857    N    N/A  R 1701 NW 27TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666858    N    N/A  R 1710 NW 26TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667115    N    N/A  R 1711 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667118    N    N/A  R 1711 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666827    N    N/A  R 1711 NW 27TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666805    N    N/A  R 1711 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667150    N    N/A  R 1720 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666838    N    N/A  R 1720 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666812    N    N/A  R 1720 NW 25TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666863    N    N/A  R 1721 NW 25TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666795    N    N/A  R 1721 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666847    N    N/A  R 1730 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667127    N    N/A  R 1730 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666865    N    N/A  R 1730 NW 27TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667121    N    N/A  R 1730 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666831    N    N/A  R 1731 NW 26TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666816    N    N/A  R 1740 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667124    N    N/A  R 1740 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666817    N    N/A  R 1740 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666799    N    N/A  R 1741 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666794    N    N/A  R 1750 NW 26TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667145    N    N/A  R 1750 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666841    N    N/A  R 1751 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666810    N    N/A  R 1751 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667146    N    N/A  R 1760 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667120    N    N/A  R 1760 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666846    N    N/A  R 1760 NW 25TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666801    N    N/A  R 1760 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667151    N    N/A  R 1761 NW 25TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666834    N    N/A  R 1761 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666807    N    N/A  R 1770 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666835    N    N/A  R 1770 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666856    N    N/A  R 1770 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666828    N    N/A  R 1771 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666853    N    N/A  R 1800 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667122    N    N/A  R 1800 NW 26TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666809    N    N/A  R 1800 NW 27TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667143    N    N/A  R 1801 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667129    N    N/A  R 1809 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666804    N    N/A  R 1809 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666822    N    N/A  R 1810 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667148    N    N/A  R 1810 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667133    N    N/A  R 1811 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667153    N    N/A  R 1811 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666815    N    N/A  R 1816 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667152    N    N/A  R 1820 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666793    N    N/A  R 1821 NW 26TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666808    N    N/A  R 1821 NW 27TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667154    N    N/A  R 1821 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667126    N    N/A  R 1824 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666864    N    N/A  R 1825 NW 25TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667142    N    N/A  R 1830 NW 26TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667125    N    N/A  R 1832 NW 25TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666806    N    N/A  R 1833 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667149    N    N/A  R 1840 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139666798    N    N/A  R 1841 NW 27TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139666866    N    N/A  R 1851 NW 28TH AVE CFST     FST   null-null-null  
+N/A     NEW     N/A     139667134    N    N/A  R 1870 NW 24TH TER CFST     FST   null-null-null  
+N/A     NEW     N/A     139667139    N    N/A  R 2412 NW 19TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666796    N    N/A  R 2451 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666818    N    N/A  R 2511 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666861    N    N/A  R 2520 NW 19TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139667144    N    N/A  R 2521 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666821    N    N/A  R 2540 NW 19TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666867    N    N/A  R 2541 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139667136    N    N/A  R 2550 NW 19TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666843    N    N/A  R 2560 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666826    N    N/A  R 2561 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139667123    N    N/A  R 2571 NW 16TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666840    N    N/A  R 2600 NW 19TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666814    N    N/A  R 2601 NW 16TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666844    N    N/A  R 2601 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139667128    N    N/A  R 2621 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666860    N    N/A  R 2630 NW 17TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666802    N    N/A  R 2641 NW 16TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139667138    N    N/A  R 2660 NW 17TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666819    N    N/A  R 2711 NW 16TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139667135    N    N/A  R 2720 NW 17TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666850    N    N/A  R 2731 NW 16TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666839    N    N/A  R 2750 NW 17TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666851    N    N/A  R 2781 NW 16TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666849    N    N/A  R 2810 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666859    N    N/A  R 2821 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139667140    N    N/A  R 2840 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666842    N    N/A  R 2845 NW 18TH CT CFST      FST   null-null-null  
+N/A     NEW     N/A     139666820    N    N/A  R 2870 NW 19TH ST CFST      FST   null-null-null  
+N/A     NEW     N/A     139666848    N    N/A  R 2896 NW 18TH CT CFST      FST   null-null-null  
+ 
+ 
+ 
+HDT PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+ONX PORT WIRING:
+Splitter Cable    Strand        PON Cable         Strand       Status
+ 
+ 
+Facility Addresses:
+ 
+LFACS   Granite(STEA=F 1738 NW 29TH LN CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1752 NW 29TH LN            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1738 NW 29TH LN CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1746 NW 29TH LN            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1738 NW 29TH LN CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1738 NW 29TH LN            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1741 NW 29TH LN CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1753 NW 29TH LN            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1741 NW 29TH LN CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1745 NW 29TH LN            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1741 NW 29TH LN CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 29TH LN            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1741 NW 29TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 29TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1741 NW 29TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 29TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1741 NW 29TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 29TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1742 NW 29TH WAY CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1754 NW 29TH WAY           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1742 NW 29TH WAY CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1748 NW 29TH WAY           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1742 NW 29TH WAY CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1742 NW 29TH WAY           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1743 NW 29TH WAY CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1755 NW 29TH WAY           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1743 NW 29TH WAY CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1749 NW 29TH WAY           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1743 NW 29TH WAY CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1743 NW 29TH WAY           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1750 NW 29TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 29TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1750 NW 29TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 29TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1750 NW 29TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 29TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 1870 NW 28TH TERRACE CFSLFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1870 NW 28TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=F 2800 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2800 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1700 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1706 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2531 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1700 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1710 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1711 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1701 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1700 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1700 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1701 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1701 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1701 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1701 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1700 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1710 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1710 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1710 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1710 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1721 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1711 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1701 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2621 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1711 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1721 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1710 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1721 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1711 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1710 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1711 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1711 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1701 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1710 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1721 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1711 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2461 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2475 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2495 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1720 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1721 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1721 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1711 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1721 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2515 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1721 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1710 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1721 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1721 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1721 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1730 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1731 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1731 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1721 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1731 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1720 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1731 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1740 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1741 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1741 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1731 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1741 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1730 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1741 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1750 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1751 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1751 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1751 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1740 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1751 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1751 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1751 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1741 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1760 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1761 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1761 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1771 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1761 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1761 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1761 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1771 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1761 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1770 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1801 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1770 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1801 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1771 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1770 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1770 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1771 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1771 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1771 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1771 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1760 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1771 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1750 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1770 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1801 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1771 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1770 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1801 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1771 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1801 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1770 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1800 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1801 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1801 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1801 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1761 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1801 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1770 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1801 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1817 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1809 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1808 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1816 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1817 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1809 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1816 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1808 NW 25TH TER           N/A                              
+                                                                                
+                   APT A                                                        
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1809 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1808 NW 25TH TER           N/A                              
+                                                                                
+                   APT B                                                        
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1817 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1809 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1810 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1811 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1821 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1831 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1841 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1840 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1830 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1820 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1810 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1810 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1811 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1821 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1811 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1811 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1811 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1810 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1811 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1831 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1811 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1821 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1816 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1816 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1816 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1808 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1820 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1825 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1820 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1820 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1821 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1811 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1820 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 26TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1810 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1831 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1821 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1811 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1801 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1800 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1810 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1820 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 27TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1830 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1831 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1821 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1821 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1824 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1825 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1824 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1824 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1825 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1825 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1825 NW 25TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1824 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1830 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1841 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1830 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1831 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1830 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1830 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1830 NW 26TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1840 NW 26TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1832 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1841 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1832 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1833 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1832 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1832 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1832 NW 25TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2530 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1833 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1841 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1833 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1833 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1833 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1840 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1833 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1832 NW 25TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1840 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1840 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1840 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1832 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1840 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1832 NW 24TH TER           N/A                              
+                                                                                
+                   APT RR                                                       
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1840 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1824 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1841 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1841 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1841 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1831 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1841 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1830 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1841 NW 27TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1820 NW 27TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1851 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1851 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1851 NW 28TH AVE CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1841 NW 28TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1870 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1860 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1870 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1870 NW 24TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1870 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1880 NW 24TH TER           N/A                              
+                                                                                
+                   UNIT BAY 3                                                   
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1870 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1880 NW 24TH TER           N/A                              
+                                                                                
+                   UNIT BAY 2                                                   
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1870 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1880 NW 24TH TER           N/A                              
+                                                                                
+                   UNIT BAY 1                                                   
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 1870 NW 24TH TER CFST)  LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1880 NW 24TH TER           N/A                              
+                                                                                
+                   UNIT BAY 4                                                   
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2412 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2412 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2451 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2451 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2451 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2461 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2451 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2471 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2511 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2511 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2511 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2501 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2520 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2520 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2521 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2521 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2521 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2531 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2540 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2540 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2541 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2541 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2541 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2551 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2550 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2550 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2560 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2560 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2560 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1833 NW 25TH TER           N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2560 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1830 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2560 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1840 NW 26TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2561 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2571 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2561 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2561 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2571 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2600 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2571 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2571 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2571 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2581 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2600 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2600 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2601 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2610 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2601 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2620 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2601 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2601 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2601 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2611 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2601 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2601 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2601 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2611 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2621 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2621 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2630 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2630 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2630 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2631 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2630 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2621 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2641 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2650 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2641 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2640 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2641 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2641 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2641 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2651 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2660 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2660 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2660 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2661 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2711 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2700 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2711 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2710 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2711 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2711 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2711 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   1655 NW 27TH AV            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2720 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2720 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2720 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2721 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2731 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2730 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2731 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2731 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2731 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2741 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2750 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2750 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2750 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2740 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2750 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2751 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2750 NW 17TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2771 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2781 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2760 NW 17TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2781 NW 16TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2781 NW 16TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2810 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2810 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2810 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2820 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2810 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2830 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2821 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2820 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2821 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2830 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2821 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2821 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2821 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2835 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2840 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2870 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2840 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2860 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2840 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2850 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2840 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2840 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2845 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2840 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2845 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2850 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2845 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2845 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2845 NW 18TH CT CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2855 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2870 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2860 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2870 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2870 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2870 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2880 NW 19TH ST            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2870 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2891 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2870 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2885 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+LFACS   Granite(STEA=R 2870 NW 19TH ST CFST)   LFACS   Granite                                  
+Status  Status  SAG Facility Address           Status  Status  Dedicated Pairs  Dedicated Ports
+N/A             Y   2871 NW 18TH CT            N/A                              
+                                                                                
+                                                                                
+                   FT L, FL                                                     
+ 
+ 
+Job Comments:
+None.
+ 
+Loop Makeup For Failed Terminals:
+None.
+
+AOTX Throw/Recon/Load Coil/Splice/LST/FLST Tasks Report
+
+
+
+Special Circuit Information:
+PRINT  TASK                               FROM      FROM      
+NUMBER NUMBER CIRCUIT                     CABLE     PAIR  DISPOSITION
+
+End Of Task Report
+
+
+
